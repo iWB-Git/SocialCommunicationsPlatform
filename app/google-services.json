@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902023609840",
+    "firebase_url": "https://apt3065-36ad3-default-rtdb.firebaseio.com",
+    "project_id": "apt3065-36ad3",
+    "storage_bucket": "apt3065-36ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902023609840:android:e9b6c1fdb35833bb8eb135",
+        "android_client_info": {
+          "package_name": "com.example.a3065"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902023609840-rlg993s9fcq00vbrm83qaelnn6h4e80r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURCklY2urt_4DVgS1G4g4Seq-MIpDky0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902023609840-rlg993s9fcq00vbrm83qaelnn6h4e80r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
